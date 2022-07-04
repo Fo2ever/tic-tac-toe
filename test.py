@@ -1,2 +1,3 @@
-print(2)
-print("kong")
+print(2.4)
+print("kong moss")
+print("mooo")
